@@ -13,6 +13,5 @@ public class Solution {
         };
          System.out.print(str.repeat(n));
         
-        sc.close();
 }
 }
